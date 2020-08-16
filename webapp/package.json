@@ -1,0 +1,39 @@
+{
+  "name": "student-sentiment-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishikavikondala/student-sentiment-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishikavikondala/student-sentiment-analysis/issues"
+  },
+  "homepage": "https://github.com/rishikavikondala/student-sentiment-analysis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^5.2.0",
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "escape-html": "^1.0.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.2",
+    "postmark": "^2.5.5",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.11.1"
+  }
+}
