@@ -1,7 +1,6 @@
 # Edify: Zoom Engagement Tool built for Hack'20 Hackathon
 
 Note: We have removed private API keys from our repository, so attempting to clone this repo and run it from here will not work.
-To demo our GCP integrated solution, visit: edify2020.herokuapp.com
 
 ## Inspiration
 As college undergraduates who were used to going to live lectures and discussion sections, the transition to online learning was very difficult. Attending Zoom lectures and discussions does not provide the same incentive to actively listen and pay attention. As a result, we often have to rewatch entire lectures a second time because we did not pay attention during the live lecture. 
@@ -27,9 +26,6 @@ With this data we generated graphs of the percentage of the class looking at the
 
 Finally, we used the email library in Python to generate an email from our email address “online.class.analyser@gmail.com” to the specified recipient. This email contains the previously mentioned graphs and data as attachments.
 
-We hosted and deployed the Web App on Heroku.
-
-
 ## Challenges we ran into
 We were able to write the Python backend and run it locally fairly quickly. The largest challenges for us had to do with implementing the code as cloud functions on GCP. We initially had permission issues with GCP. We also ran into troubles reading stored files in subdirectories on GCP. Our codebase was also initially too large to be hosted on GCP, and we had to remove large video files. These issues with GCP were especially challenging for us to overcome because this was the first time using GCP for a lot of the team members. 
 
@@ -46,5 +42,3 @@ We learned how to brainstorm ideas effectively in a team, implement our idea col
 We decided to develop our solution exclusively for Zoom because it is the primary mode of delivering lectures and discussion sections in academia. We want to expand our solution to different platforms like Microsoft Teams and Skype so that it can be used in a corporate setting as well. We would also like to gather and display analytics in real time so that a presenter can adapt their strategies to suit the audience at any particular moment.
 
 Zoom learning is not perfect, and will never replace in person classes for many people, but we hope that our tool can help countless Professors, TAs, and students.
-
-
