@@ -42,7 +42,7 @@ async function execute (req, res) {
 
 async function makeReq(userEmail, bucketFolder) {
     // https://flaviocopes.com/node-http-post/
-    request.post('https://us-west3-class-analysis-2020.cloudfunctions.net/transcript-processor', {
+    request.post('[INSERT URL FOR GOOGLE CLOUD FUNCTION]', {
         json: {
             email: userEmail,
             folder_name: bucketFolder
