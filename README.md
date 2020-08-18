@@ -1,6 +1,6 @@
 # Edify: Zoom Engagement Tool built for Hack'20 Hackathon
 
-Note: We have removed private API keys from our repository, so attempting to clone this repo and run it from here will not work.
+Winner: Google Cloud COVID-19 Fund
 
 ## Inspiration
 As college undergraduates who were used to going to live lectures and discussion sections, the transition to online learning was very difficult. Attending Zoom lectures and discussions does not provide the same incentive to actively listen and pay attention. As a result, we often have to rewatch entire lectures a second time because we did not pay attention during the live lecture. 
