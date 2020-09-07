@@ -1,6 +1,7 @@
 # Edify: Zoom Engagement Tool built for Hack'20 Hackathon
 
 Winner: Google Cloud COVID-19 Fund
+Devpost Link: https://devpost.com/software/zoom-analyser
 
 ## Inspiration
 As college undergraduates who were used to going to live lectures and discussion sections, the transition to online learning was very difficult. Attending Zoom lectures and discussions does not provide the same incentive to actively listen and pay attention. As a result, we often have to rewatch entire lectures a second time because we did not pay attention during the live lecture. 
