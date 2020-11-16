@@ -1,6 +1,7 @@
 # Edify: Zoom Engagement Tool built for Hack'20 Hackathon
 
 Winner: Google Cloud COVID-19 Fund
+
 Devpost Link: https://devpost.com/software/zoom-analyser
 
 ## Inspiration
